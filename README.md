@@ -3,7 +3,7 @@
 <div align="center">
 
 <a href="https://jshiva.vercel.app/">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e0b2e,50:4c1d78,100:7f1d4d&height=200&section=header&text=J%20Shiva&fontSize=52&fontAlignY=36&fontColor=fff&desc=Fullstack%20Developer&descAlignY=58&descSize=18&animation=twinkling" alt="J Shiva — click to open portfolio" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e0b2e,50:4c1d78,100:7f1d4d&height=200&section=header&text=J%20Shiva&fontSize=52&fontAlignY=36&fontColor=fff&desc=Fullstack%20Developer&descAlignY=58&descSize=18&animation=twinkling" alt="J Shiva — click to open portfolio" width="100%" style="background: #8e29719e;"/>
 </a>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=5b1a7a&height=3&section=footer" alt="" width="100%"/>
